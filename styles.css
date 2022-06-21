@@ -1,0 +1,8 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #FFFFFF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #7BF2DA;
+    color: #7BF2DA;
+}
